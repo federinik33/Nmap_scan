@@ -1,0 +1,4 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2020-12-31 14:50 WET
+Nmap scan report for xxx.xxx.x.xx
+Host is up.
+Nmap done: 256 IP addresses (xx hosts up) scanned in 3.41 seconds
